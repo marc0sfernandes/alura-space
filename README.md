@@ -14,47 +14,48 @@ NPM (Node Package Manager) ou Yarn
 ## Como executar o projeto
 Siga as etapas abaixo para executar o projeto Alura Space em seu ambiente local:
 
-Clone este repositório para o seu computador usando o seguinte comando:
+1. Clone este repositório para o seu computador usando o seguinte comando:
 
-bash
-Copy code
+```bash
 git clone https://github.com/marc0sfernandes/alura-space.git
-Navegue até o diretório do projeto:
+```
+2. Navegue até o diretório do projeto:
 
-bash
-Copy code
+```bash
 cd alura-space
-Instale as dependências do projeto usando NPM ou Yarn:
+```
 
-Copy code
+3. Instale as dependências do projeto usando NPM ou Yarn:
+```
 npm install
+```
 ou
-
-Copy code
+```
 yarn install
-Inicie o servidor de desenvolvimento:
+```
+4. Inicie o servidor de desenvolvimento:
 
 ```sql
-Copy code
 npm start
 ```
 ou
 
-sql
-Copy code
+```sql
 yarn start
-Abra o navegador e acesse http://localhost:3000 para visualizar o Alura Space em ação.
+```
+
+5. Abra o navegador e acesse http://localhost:3000 para visualizar o Alura Space em ação.
 
 ## Contribuição
 Se você deseja contribuir para o projeto Alura Space, siga as etapas abaixo:
 
-Fork este repositório e clone-o para o seu computador.
+1. Fork este repositório e clone-o para o seu computador.
 
 Crie uma nova branch a partir da branch main:
 
-css
-Copy code
+```css
 git checkout -b minha-branch
+```
 Faça as alterações desejadas no projeto.
 
 Execute os testes para garantir que tudo esteja funcionando corretamente:
