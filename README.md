@@ -80,5 +80,7 @@ O Alura Space é distribuído sob a licença MIT. Consulte o arquivo LICENSE par
 Se você tiver alguma dúvida, sugestão ou feedback, sinta-se à vontade para entrar em contato com o criador do projeto:
 
 Marcos Fernandes
+
 Email: marcosvini1979.mv@gmail.com
+
 GitHub: marc0sfernandes
