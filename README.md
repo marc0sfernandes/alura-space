@@ -1,70 +1,84 @@
-# Getting Started with Create React App
+#Alura Space
+Este é um projeto estático criado usando React, que exibe imagens da galáxia. O objetivo do Alura Space é proporcionar aos usuários uma experiência imersiva ao explorar imagens fascinantes do espaço sideral.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##Funcionalidades
+O Alura Space oferece as seguintes funcionalidades:
 
-## Available Scripts
+Visualização de imagens da galáxia: Os usuários podem explorar uma vasta coleção de imagens incríveis do espaço sideral.
+Filtros funcionais: O projeto possui filtros que permitem aos usuários filtrar as imagens com base em critérios específicos, como tipo de objeto astronômico, data de captura, entre outros. Esses filtros auxiliam na descoberta e navegação pelas imagens.
+Pré-requisitos
+Antes de executar o projeto Alura Space, verifique se o seguinte software está instalado em sua máquina:
 
-In the project directory, you can run:
+Node.js (versão 10 ou superior)
+NPM (Node Package Manager) ou Yarn
+Como executar o projeto
+Siga as etapas abaixo para executar o projeto Alura Space em seu ambiente local:
 
-### `npm start`
+Clone este repositório para o seu computador usando o seguinte comando:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+bash
+Copy code
+git clone https://github.com/marc0sfernandes/alura-space.git
+Navegue até o diretório do projeto:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+bash
+Copy code
+cd alura-space
+Instale as dependências do projeto usando NPM ou Yarn:
 
-### `npm test`
+Copy code
+npm install
+ou
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Copy code
+yarn install
+Inicie o servidor de desenvolvimento:
 
-### `npm run build`
+sql
+Copy code
+npm start
+ou
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+sql
+Copy code
+yarn start
+Abra o navegador e acesse http://localhost:3000 para visualizar o Alura Space em ação.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Contribuição
+Se você deseja contribuir para o projeto Alura Space, siga as etapas abaixo:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Fork este repositório e clone-o para o seu computador.
 
-### `npm run eject`
+Crie uma nova branch a partir da branch main:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+css
+Copy code
+git checkout -b minha-branch
+Faça as alterações desejadas no projeto.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Execute os testes para garantir que tudo esteja funcionando corretamente:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+bash
+Copy code
+npm test
+Faça commit das suas alterações:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+sql
+Copy code
+git commit -m "Minhas alterações"
+Faça push das alterações para o seu repositório fork:
 
-## Learn More
+perl
+Copy code
+git push origin minha-branch
+Abra um pull request para o repositório principal.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Licença
+O Alura Space é distribuído sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Contato
+Se você tiver alguma dúvida, sugestão ou feedback, sinta-se à vontade para entrar em contato com o criador do projeto:
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Marcos Fernandes
+Email: marcos@example.com
+GitHub: marc0sfernandes
