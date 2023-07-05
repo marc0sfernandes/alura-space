@@ -10,6 +10,7 @@ Filtros funcionais: O projeto possui filtros que permitem aos usuários filtrar 
 Antes de executar o projeto Alura Space, verifique se o seguinte software está instalado em sua máquina:
 
 Node.js (versão 10 ou superior)
+
 NPM (Node Package Manager) ou Yarn
 ## Como executar o projeto
 Siga as etapas abaixo para executar o projeto Alura Space em seu ambiente local:
@@ -51,29 +52,29 @@ Se você deseja contribuir para o projeto Alura Space, siga as etapas abaixo:
 
 1. Fork este repositório e clone-o para o seu computador.
 
-Crie uma nova branch a partir da branch main:
+2. Crie uma nova branch a partir da branch main:
 
 ```css
 git checkout -b minha-branch
 ```
-Faça as alterações desejadas no projeto.
+3. Faça as alterações desejadas no projeto.
 
-Execute os testes para garantir que tudo esteja funcionando corretamente:
+4. Execute os testes para garantir que tudo esteja funcionando corretamente:
 
-bash
-Copy code
-npm test
-Faça commit das suas alterações:
+```bash
+npm teste
+```
+5. Faça commit das suas alterações:
 
-sql
-Copy code
+```sql
 git commit -m "Minhas alterações"
-Faça push das alterações para o seu repositório fork:
+```
+6. Faça push das alterações para o seu repositório fork:
 
-perl
-Copy code
+```perl
 git push origin minha-branch
-Abra um pull request para o repositório principal.
+```
+7. Abra um pull request para o repositório principal.
 
 ## Licença
 O Alura Space é distribuído sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
