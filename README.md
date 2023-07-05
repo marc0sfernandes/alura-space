@@ -34,9 +34,10 @@ Copy code
 yarn install
 Inicie o servidor de desenvolvimento:
 
-sql
+```sql
 Copy code
 npm start
+```
 ou
 
 sql
